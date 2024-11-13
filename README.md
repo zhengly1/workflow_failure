@@ -20,4 +20,3 @@ The scripts directory contains scripts used to extract the logs from failed work
 
 The data directory contains the data information used by the scripts.
 
-The raw log data is at the following link ：https://zenodo.org/records/14096860?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjM3MTVmYzIzLTY0YTItNDRkNi04ZTI1LWY4ZGFmNTgxYWE1MSIsImRhdGEiOnt9LCJyYW5kb20iOiI1M2MyZTU3YjlhYTdkNWMzOGZiZmJkMGM4ODViYTE4MSJ9.C9RvOFpVvm4Ri4cE2IieFIBRpNPCM5NKc_6GkaZsqBupimVBG6U8PBb7H5ijYYgHR2hBsBQdaAU4UL0RuddTbQ
