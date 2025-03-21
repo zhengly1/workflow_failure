@@ -13,10 +13,17 @@ The replication-labeling file contains the result of the final categorization of
 - sub-category-tag: Identifier for the sub category of failures
 - sub-category: A more granular categorization of the failure, providing detailed insight into the nature of the root cause.
 - category:  A broader classification of the failure.
+- action/script: The failure identified in the action or script.
 
 The replication-surveyAnswers file contains the results of the survey conducted with GHA practitioners. The file shows the questions that were asked to the survey respondents along with the respondents' answers.
+
+This survey file contains all questions from the survey.
 
 The scripts directory contains scripts used to extract the logs from failed workflows.
 
 The data directory contains the data information used by the scripts.
+
+
+
+
 
